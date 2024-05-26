@@ -33,7 +33,7 @@ export default function Component() {
   )
 }
 
-function LockIcon(props:any) {
+function LockIcon(props: any) {
   return (
     <svg
       {...props}
